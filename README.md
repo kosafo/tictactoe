@@ -1,2 +1,5 @@
-# tictactoe
-React TicTacToe
+# Tic Tac Toe
+
+**Game TicTacToe**
+
+
